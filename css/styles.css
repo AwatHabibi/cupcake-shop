@@ -15,3 +15,9 @@ p.first {
   color:brown;
   font-size: larger;
 }
+
+p.best {
+  color: goldenrod;
+  font-size: x-large;
+  font-style: bold;
+}
