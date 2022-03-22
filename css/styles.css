@@ -6,3 +6,12 @@ p.first {
   width: 130%;
   font-style: italic;
 }
+
+.important {
+  color: red;
+}
+
+.yum {
+  color:brown;
+  font-size: larger;
+}
